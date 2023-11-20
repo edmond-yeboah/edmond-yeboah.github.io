@@ -1,5 +1,5 @@
 ---
-title: "Programming with C++"
+title: "COSC221 - Programming with C++"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1

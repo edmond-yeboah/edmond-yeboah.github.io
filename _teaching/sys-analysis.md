@@ -1,10 +1,10 @@
 ---
-title: "COSC255 - Operating Systems"
+title: "COSC260 - Systems Analysis and Design"
 collection: teaching
-type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/sys-analysis
 venue: "Valley View University, Computer Science Department"
-date: 2018-02-01
+date: 2018-01-01
 location: "Oyibi, Ghana"
 ---
 
