@@ -1,8 +1,8 @@
 ---
-title: "Build chatbots with PVA"
+title: "Building chatbots with PVA"
 collection: teaching
 type: "Training"
-permalink: /teaching/prog-with-python
+permalink: /teaching/chatbot-vra
 venue: "Enterprise Computing Limited"
 date: 2023-03-01
 location: "Tema, Ghana"
