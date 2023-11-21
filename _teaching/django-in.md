@@ -1,5 +1,5 @@
 ---
-title: "Building web applications with Django"
+title: "Building Web applications with Django"
 collection: teaching
 type: "Training"
 permalink: /teaching/django-in
