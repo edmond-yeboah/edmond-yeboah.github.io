@@ -1,5 +1,5 @@
 ---
-title: "Building chatbots with PVA"
+title: "Building chatbots with Microsoft Copilot Studio"
 collection: teaching
 type: "Training"
 permalink: /teaching/chatbot-vra
